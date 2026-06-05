@@ -1,0 +1,65 @@
+{
+  "portfolio_name": "Example KCAS Portfolio",
+  "new_capital": 10000,
+  "holdings": [
+    {
+      "asset": "NVDA",
+      "weight": 0.3,
+      "primary_exposure": "AI Infrastructure",
+      "kcas_core": {
+        "asset_quality_score": 9.2,
+        "investment_attractiveness_score": 6.4,
+        "final_allocation_score": 8.1,
+        "knowledge_capital_score": 9.3,
+        "compounding_potential_score": 9.1,
+        "reflexivity_score": 9.0
+      }
+    },
+    {
+      "asset": "PLTR",
+      "weight": 0.2,
+      "primary_exposure": "AI Software",
+      "kcas_core": {
+        "asset_quality_score": 8.4,
+        "investment_attractiveness_score": 5.8,
+        "final_allocation_score": 7.4,
+        "knowledge_capital_score": 8.8,
+        "compounding_potential_score": 8.1,
+        "reflexivity_score": 8.2
+      }
+    },
+    {
+      "asset": "QQQ",
+      "weight": 0.2,
+      "primary_exposure": "Index Funds",
+      "kcas_core": {
+        "asset_quality_score": 7.5,
+        "investment_attractiveness_score": 6.5,
+        "final_allocation_score": 7.1,
+        "knowledge_capital_score": 7.0,
+        "compounding_potential_score": 7.2,
+        "reflexivity_score": 6.8
+      }
+    },
+    {
+      "asset": "Cash",
+      "weight": 0.3,
+      "primary_exposure": "Cash",
+      "kcas_core": {
+        "asset_quality_score": 5.0,
+        "investment_attractiveness_score": 6.8,
+        "final_allocation_score": 5.7,
+        "knowledge_capital_score": 0.0,
+        "compounding_potential_score": 2.0,
+        "reflexivity_score": 0.0
+      }
+    }
+  ],
+  "candidates": ["NVDA", "PLTR", "MU", "QQQ", "Cash"],
+  "constraints": [
+    "Always consider existing holdings",
+    "Always consider opportunity cost",
+    "Avoid overlapping exposures",
+    "Focus on where the next dollar should go"
+  ]
+}

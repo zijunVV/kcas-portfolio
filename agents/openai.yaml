@@ -1,0 +1,4 @@
+interface:
+  display_name: "KCAS Portfolio"
+  short_description: "Portfolio construction with KCAS Core"
+  default_prompt: "Use $kcas-portfolio to review holdings and decide where the next dollar should go using KCAS Core scores."
