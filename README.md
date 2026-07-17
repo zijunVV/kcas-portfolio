@@ -1,5 +1,9 @@
 # KCAS Portfolio
 
+> *A portfolio-construction framework for deciding what to own, what to add, and where the next dollar of capital should go — built on top of KCAS Core.*
+>
+> Part of the four-part **KCAS ecosystem**: **create** (KCAB OS) → **evaluate** (Core) → **research** (Research) → **allocate** (Portfolio).
+
 KCAS Portfolio is a portfolio construction and capital allocation system built on top of KCAS Core.
 
 It helps investors determine:
