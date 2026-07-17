@@ -1,6 +1,6 @@
 ---
 name: kcas-portfolio
-description: Portfolio construction, portfolio diagnosis, capital allocation, opportunity cost, and risk management layer for the Knowledge Capital Asset System. Use when Codex needs to review current holdings, build a portfolio from available capital, decide where new capital should go, compare candidates versus cash or index funds, diagnose portfolio-level exposures, recommend Increase/Maintain/Reduce/Exit actions, or decide the single best next allocation action through Knowledge Capital. Must reuse KCAS Core outputs and must not evaluate assets in isolation.
+description: Portfolio construction, portfolio diagnosis, capital allocation, opportunity cost, and risk management layer for the Knowledge Capital Allocation System. Use when Codex needs to review current holdings, build a portfolio from available capital, decide where new capital should go, compare candidates versus cash or index funds, diagnose portfolio-level exposures, recommend Increase/Maintain/Reduce/Exit actions, or decide the single best next allocation action through Knowledge Capital. Must reuse KCAS Core outputs and must not evaluate assets in isolation.
 ---
 
 # KCAS Portfolio
